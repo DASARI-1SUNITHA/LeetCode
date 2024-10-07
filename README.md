@@ -4,6 +4,7 @@
 ## Array
 |  |
 | ------- |
+| [0039-combination-sum](https://github.com/DASARI-1SUNITHA/LeetCode/tree/master/0039-combination-sum) |
 | [0792-binary-search](https://github.com/DASARI-1SUNITHA/LeetCode/tree/master/0792-binary-search) |
 ## Binary Search
 |  |
@@ -25,4 +26,8 @@
 |  |
 | ------- |
 | [1013-fibonacci-number](https://github.com/DASARI-1SUNITHA/LeetCode/tree/master/1013-fibonacci-number) |
+## Backtracking
+|  |
+| ------- |
+| [0039-combination-sum](https://github.com/DASARI-1SUNITHA/LeetCode/tree/master/0039-combination-sum) |
 <!---LeetCode Topics End-->
