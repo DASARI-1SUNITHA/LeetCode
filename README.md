@@ -9,10 +9,12 @@
 | [0046-permutations](https://github.com/DASARI-1SUNITHA/LeetCode/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/DASARI-1SUNITHA/LeetCode/tree/master/0051-n-queens) |
 | [0198-house-robber](https://github.com/DASARI-1SUNITHA/LeetCode/tree/master/0198-house-robber) |
+| [0287-find-the-duplicate-number](https://github.com/DASARI-1SUNITHA/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0792-binary-search](https://github.com/DASARI-1SUNITHA/LeetCode/tree/master/0792-binary-search) |
 ## Binary Search
 |  |
 | ------- |
+| [0287-find-the-duplicate-number](https://github.com/DASARI-1SUNITHA/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0792-binary-search](https://github.com/DASARI-1SUNITHA/LeetCode/tree/master/0792-binary-search) |
 ## Math
 |  |
@@ -52,4 +54,12 @@
 |  |
 | ------- |
 | [1250-longest-common-subsequence](https://github.com/DASARI-1SUNITHA/LeetCode/tree/master/1250-longest-common-subsequence) |
+## Two Pointers
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/DASARI-1SUNITHA/LeetCode/tree/master/0287-find-the-duplicate-number) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/DASARI-1SUNITHA/LeetCode/tree/master/0287-find-the-duplicate-number) |
 <!---LeetCode Topics End-->
