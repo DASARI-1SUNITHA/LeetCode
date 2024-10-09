@@ -31,6 +31,7 @@
 ## Recursion
 |  |
 | ------- |
+| [0206-reverse-linked-list](https://github.com/DASARI-1SUNITHA/LeetCode/tree/master/0206-reverse-linked-list) |
 | [1013-fibonacci-number](https://github.com/DASARI-1SUNITHA/LeetCode/tree/master/1013-fibonacci-number) |
 ## Memoization
 |  |
@@ -74,4 +75,5 @@
 | ------- |
 | [0141-linked-list-cycle](https://github.com/DASARI-1SUNITHA/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/DASARI-1SUNITHA/LeetCode/tree/master/0142-linked-list-cycle-ii) |
+| [0206-reverse-linked-list](https://github.com/DASARI-1SUNITHA/LeetCode/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->
