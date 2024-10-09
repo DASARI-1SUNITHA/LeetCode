@@ -58,6 +58,7 @@
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/DASARI-1SUNITHA/LeetCode/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/DASARI-1SUNITHA/LeetCode/tree/master/0142-linked-list-cycle-ii) |
 | [0287-find-the-duplicate-number](https://github.com/DASARI-1SUNITHA/LeetCode/tree/master/0287-find-the-duplicate-number) |
 ## Bit Manipulation
 |  |
@@ -67,8 +68,10 @@
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/DASARI-1SUNITHA/LeetCode/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/DASARI-1SUNITHA/LeetCode/tree/master/0142-linked-list-cycle-ii) |
 ## Linked List
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/DASARI-1SUNITHA/LeetCode/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/DASARI-1SUNITHA/LeetCode/tree/master/0142-linked-list-cycle-ii) |
 <!---LeetCode Topics End-->
