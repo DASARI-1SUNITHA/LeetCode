@@ -57,9 +57,18 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0141-linked-list-cycle](https://github.com/DASARI-1SUNITHA/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0287-find-the-duplicate-number](https://github.com/DASARI-1SUNITHA/LeetCode/tree/master/0287-find-the-duplicate-number) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/DASARI-1SUNITHA/LeetCode/tree/master/0287-find-the-duplicate-number) |
+## Hash Table
+|  |
+| ------- |
+| [0141-linked-list-cycle](https://github.com/DASARI-1SUNITHA/LeetCode/tree/master/0141-linked-list-cycle) |
+## Linked List
+|  |
+| ------- |
+| [0141-linked-list-cycle](https://github.com/DASARI-1SUNITHA/LeetCode/tree/master/0141-linked-list-cycle) |
 <!---LeetCode Topics End-->
